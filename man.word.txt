@@ -1,0 +1,22 @@
+To copy/paste formatting
+    CTRL_SHIFT_C
+    CTRL_SHIFT_V
+
+Insert bullet
+    CTRL_SHIFT_L
+
+To normal style
+    CTRL_SHIFT_N
+
+Numbering
+    Button 사용
+
+Increase numbering level
+Heading level
+    SHIFT_ALT_ARROW
+
+Heading level
+    CTRL_ALT_1
+    CTRL_ALT_2
+    CTRL_ALT_3
+
